@@ -56,6 +56,8 @@ beta([1, 2, 3])  # returns 1
 
 Feel free to slide into our DMs (open an issue) or drop that fire code (submit a PR). We're always looking for more rizz to add to the project.
 
+Check out the GitHub repo here: [py_brainrot GitHub](https://github.com/WhiteMCWizard/py_brainrot/).
+
 ## 📜 License
 
 MIT License
