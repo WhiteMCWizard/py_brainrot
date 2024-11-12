@@ -41,3 +41,6 @@ def bounce(*args, **kwargs):
 
 def reality_check(*args, **kwargs):
     isinstance(*args, **kwargs)
+
+cap = False
+frfr = True
