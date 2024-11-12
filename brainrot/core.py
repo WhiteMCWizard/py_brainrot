@@ -1,3 +1,5 @@
+import time
+
 #Built-in Functions
 
 def yap(*args, **kwargs):
@@ -41,6 +43,9 @@ def bounce(*args, **kwargs):
 
 def reality_check(*args, **kwargs):
     isinstance(*args, **kwargs)
+
+def goon(seconds, *args, **kwargs):
+    time.sleep(seconds)
 
 cap = False
 frfr = True

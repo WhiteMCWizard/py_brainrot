@@ -49,6 +49,7 @@ beta([1, 2, 3])  # returns 1
 | `main_character()` | `open()` |
 | `bounce()` | `enumerate()` |
 | `reality_check()` | `isinstance()` |
+| `goon()` | `time.sleep()` |
 | `cap` | `False` |
 | `frfr` | `True` |
 
